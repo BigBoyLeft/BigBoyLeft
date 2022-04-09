@@ -1,4 +1,4 @@
-<div>
+<div style="display:flex;place-items:center;">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigBoyLeft&show_icons=true&theme=dracula" />
   </a>
