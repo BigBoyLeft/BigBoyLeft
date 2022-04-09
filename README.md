@@ -1,5 +1,5 @@
 <div style="display:flex">
-  <div style="width: 50%; height: 50%;">
+  <div style="width: 50%; height: 50%; display: flex; flex-direction: column">
     <img style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=BigBoyLeft&show_icons=true&theme=dracula" />
     <a href="https://github.com/BigBoyLeft/Rebirth">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BigBoyLeft&repo=Rebirth&show_icons=true&theme=dracula" />
