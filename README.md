@@ -5,5 +5,5 @@
       <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BigBoyLeft&repo=Rebirth&show_icons=true&theme=dracula" />
     </a>
   </div>
-  <img height="100%" width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBoyLeft&show_icons=true&theme=dracula"/>
+  <img style="margin-top: -30px;"  height="100%" width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBoyLeft&show_icons=true&theme=dracula"/>
 </div>
