@@ -1,4 +1,4 @@
-<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BigBoyLeft&hide_progress=true" />
+[![My Current Project](https://github-readme-stats.vercel.app/api/pin/?username=BigBoyLeft&repo=Rebirth)](https://github.com/BigBoyLeft/Rebirth)
 <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=BigBoyLeft&show_icons=true&theme=dracula" />
 <img align="center" style="left:50%;transform:translateX(-50%)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBoyLeft&show_icons=true&theme=dracula" />
 
