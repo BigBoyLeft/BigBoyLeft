@@ -1,4 +1,4 @@
-[![BigBoyLeft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BigBoyLeft)](https://github.com/BigBoyLeft/BigBoyLeft)
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BigBoyLeft&hide_progress=true" />
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=BigBoyLeft&show_icons=true&theme=dracula" />
 <img align="center" style="left:50%;transform:translateX(-50%)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBoyLeft&show_icons=true&theme=dracula" />
 
